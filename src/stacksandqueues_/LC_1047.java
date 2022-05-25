@@ -34,7 +34,7 @@ class Solution_1047 {
                 s[++top] = s[i];
         数组去重算法(?)
  */
-class Solution_1047_ {
+class Solution_10472 {
     public String removeDuplicates(String S) {
         char[] s = S.toCharArray();
         int top = -1;
