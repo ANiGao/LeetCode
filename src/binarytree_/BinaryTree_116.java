@@ -17,8 +17,9 @@ public class BinaryTree_116 {
         if (root == null) {
             return null;
         }
+        // 返还的是 root 节点
         Node pre = root;
-        //循环条件是当前节点的left不为空，当只有根节点或所有叶子节点都出串联完后循环就退出了
+        // 循环条件是当前节点的left不为空，当只有根节点或所有叶子节点都出串联完后循环就退出了
         while (pre.left != null) {
             Node temp = pre;
             // 每一层,帮忙串下一层[i]
@@ -30,7 +31,7 @@ public class BinaryTree_116 {
                 if (temp.next != null) {
                     temp.right.next = temp.next.left;
                 }
-                //继续右边遍历
+                // 继续右边遍历
                 temp = temp.next;
             }
             // 从下一层[i+1]的最左边开始遍历
@@ -71,26 +72,25 @@ public class BinaryTree_116 {
         }
         return root;
     }
+}
+// 定义类
+class Node {
+    public int val;
+    public Node left;
+    public Node right;
+    public Node next;
 
-    // 定义类
-    class Node {
-        public int val;
-        public Node left;
-        public Node right;
-        public Node next;
+    public Node() {
+    }
 
-        public Node() {
-        }
+    public Node(int _val) {
+        val = _val;
+    }
 
-        public Node(int _val) {
-            val = _val;
-        }
-
-        public Node(int _val, Node _left, Node _right, Node _next) {
-            val = _val;
-            left = _left;
-            right = _right;
-            next = _next;
-        }
+    public Node(int _val, Node _left, Node _right, Node _next) {
+        val = _val;
+        left = _left;
+        right = _right;
+        next = _next;
     }
 }

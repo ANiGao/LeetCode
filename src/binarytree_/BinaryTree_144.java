@@ -62,7 +62,7 @@ public class BinaryTree_144 {
         Stack<TreeNode> st = new Stack<>();
         if (root != null) st.push(root); //进入循环
         while (!st.empty()) {
-            TreeNode node = st.peek(); //去除根节点影响
+            TreeNode node = st.peek();
             // 前序遍历顺序：中-左-右，入栈顺序：右-左-中
             if (node != null) {
                 st.pop(); // 将该节点弹出，避免重复操作，下面再将右中左节点添加到栈中

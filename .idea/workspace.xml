@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c0893b6-f420-4ef0-ab88-6ccf617a539d" name="默认的" comment="测试">
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BInaryTree_530.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_572.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_589.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_590.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_700.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/binarytree_/BinaryTree_116$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/binarytree_/BinaryTree_116.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/binarytree_/BinaryTree_116.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/binarytree_/BinaryTree_94.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/binarytree_/BinaryTree_94.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/stacksandqueues_/Solution_1047_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarytree_/BinaryTree_116.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_116.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarytree_/BinaryTree_144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarytree_/BinaryTree_145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_145.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarytree_/BinaryTree_94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree_/BinaryTree_94.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29diKwxO22bJ8QnPfqpnRcAZAPm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Autonomous _Learning" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c0893b6-f420-4ef0-ab88-6ccf617a539d" name="默认的" comment="" />
+      <created>1653449302929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653449302929</updated>
+      <workItem from="1653449306922" duration="1277000" />
+      <workItem from="1653452410718" duration="1669000" />
+      <workItem from="1653477578929" duration="5208000" />
+      <workItem from="1653485353410" duration="245000" />
+      <workItem from="1653567020566" duration="2919000" />
+      <workItem from="1653571222462" duration="21000" />
+      <workItem from="1653658859198" duration="722000" />
+      <workItem from="1653810707116" duration="13000" />
+      <workItem from="1653894412984" duration="1000" />
+      <workItem from="1653912045912" duration="3685000" />
+      <workItem from="1653999484565" duration="1193000" />
+      <workItem from="1654087000201" duration="3673000" />
+      <workItem from="1654171758228" duration="3795000" />
+      <workItem from="1654259593183" duration="2704000" />
+      <workItem from="1654272482519" duration="446000" />
+      <workItem from="1654304768371" duration="32000" />
+      <workItem from="1654333727687" duration="145000" />
+      <workItem from="1654345069004" duration="3745000" />
+      <workItem from="1654431279929" duration="3272000" />
+      <workItem from="1654518808955" duration="3923000" />
+      <workItem from="1654524284735" duration="15000" />
+      <workItem from="1654606573224" duration="4575000" />
+      <workItem from="1654674015634" duration="95000" />
+      <workItem from="1654691262020" duration="4405000" />
+      <workItem from="1654762880381" duration="1192000" />
+      <workItem from="1654777482918" duration="617000" />
+      <workItem from="1654782203175" duration="2413000" />
+      <workItem from="1654827149725" duration="32000" />
+      <workItem from="1655029758119" duration="5911000" />
+      <workItem from="1655084253383" duration="162000" />
+      <workItem from="1655123669311" duration="5341000" />
+      <workItem from="1655206869613" duration="2853000" />
+      <workItem from="1655212625819" duration="617000" />
+      <workItem from="1655341104403" duration="12000" />
+      <workItem from="1655341137738" duration="23000" />
+      <workItem from="1655341586790" duration="658000" />
+      <workItem from="1655381586288" duration="712000" />
+      <workItem from="1655383334823" duration="10000" />
+      <workItem from="1655390006682" duration="62000" />
+      <workItem from="1655391221935" duration="1242000" />
+      <workItem from="1655428521063" duration="1347000" />
+      <workItem from="1655438935218" duration="3734000" />
+      <workItem from="1655460112984" duration="597000" />
+      <workItem from="1655466348876" duration="8225000" />
+      <workItem from="1655516582419" duration="126000" />
+      <workItem from="1655525830612" duration="87000" />
+      <workItem from="1655556040979" duration="4068000" />
+      <workItem from="1655634755079" duration="1209000" />
+      <workItem from="1655649075787" duration="1159000" />
+      <workItem from="1655708954555" duration="578000" />
+      <workItem from="1655727174028" duration="5484000" />
+      <workItem from="1655777193333" duration="4000" />
+      <workItem from="1655813345112" duration="2297000" />
+      <workItem from="1655864924684" duration="4000" />
+      <workItem from="1655904597552" duration="205000" />
+      <workItem from="1656157642140" duration="4054000" />
+      <workItem from="1656247750917" duration="1509000" />
+      <workItem from="1656493235095" duration="33000" />
+      <workItem from="1657458287780" duration="319000" />
+      <workItem from="1657523732100" duration="1253000" />
+      <workItem from="1657541359662" duration="2146000" />
+      <workItem from="1657617515854" duration="6000" />
+      <workItem from="1657627876664" duration="3105000" />
+      <workItem from="1657683523874" duration="38000" />
+      <workItem from="1657885201796" duration="3158000" />
+      <workItem from="1658045251919" duration="3992000" />
+      <workItem from="1658111112004" duration="8000" />
+      <workItem from="1658146811004" duration="1318000" />
+      <workItem from="1658196283892" duration="1574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 2" />
+    <MESSAGE value="new-1" />
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
